@@ -9,5 +9,5 @@ display_board(board)
 
 # Make sure to execute #play below
 
-play = gets.strip
+board = gets.strip
 play(board)
